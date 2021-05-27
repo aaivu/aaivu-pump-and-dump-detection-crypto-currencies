@@ -1,4 +1,4 @@
-# Project Title / Research Title
+# Pump and dump detection on crypto currencies using computer vision
 
 ![project] ![research]
 
