@@ -8,7 +8,7 @@
     1. Dr Uthayasankar Thayasivam
     2. Mrs. Kaushalya Kularatnam
 - <b>Contributor(s)</b>
-    1. waruna wickramasingha
+    1. Waruna Wickramasingha
 
 <b>Useful Links </b>
 
